@@ -33,5 +33,6 @@
 }
 
 .offset {
+	-webkit-margin-after: 50px;
 	margin-block-end: 50px;
 }
